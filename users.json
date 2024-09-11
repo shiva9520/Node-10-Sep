@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Terri",
+        "last_name": "Roughley",
+        "email": "troughley0@mysql.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Nicol",
+        "last_name": "Waight",
+        "email": "nwaight1@yahoo.co.jp",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Phaedra",
+        "last_name": "Brakespear",
+        "email": "pbrakespear2@php.net",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Emelyne",
+        "last_name": "Peterkin",
+        "email": "epeterkin3@gmpg.org",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Frederick",
+        "last_name": "Fandrich",
+        "email": "ffandrich4@fotki.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Say",
+        "last_name": "Marthen",
+        "email": "smarthen5@webeden.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Clarita",
+        "last_name": "Blewett",
+        "email": "cblewett6@google.com.au",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Rodrick",
+        "last_name": "Perillo",
+        "email": "rperillo7@cnet.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Kristel",
+        "last_name": "Auletta",
+        "email": "kauletta8@biglobe.ne.jp",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 10,
+        "first_name": "Brocky",
+        "last_name": "Laird",
+        "email": "blaird9@slashdot.org",
+        "gender": "Male"
+    },
+    {
+        "first_name": "Ravi",
+        "last_name": "Roughley",
+        "email": "troughley0@mysql.com",
+        "gender": "Female",
+        "id": 11
+    }
+]
